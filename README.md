@@ -44,3 +44,4 @@ I am using Firebase distribution in order to upload final builds of Android and 
 ## Important note
 * For IOS sign, Need to **cancel automatic manage sign** and select the provisioning profile.
 * Github Actions has option to run on [self hosted](https://docs.github.com/en/free-pro-team@latest/actions/hosting-your-own-runners/about-self-hosted-runners) machine as you have limit of how many free runs you can do (For self hosted it is free and unlimited!)
+
